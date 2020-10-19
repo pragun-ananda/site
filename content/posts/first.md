@@ -1,0 +1,14 @@
+---
+title: "The Background Music of My Life"
+date: 2020-08-16T14:01:19-04:00
+draft: false
+tags: ["reflection"]
+---
+
+The background music my life is in Hindi. The funny thing about that fact is I don't understand Hindi. Yet, I find myself here, writing my first blog post with headphones in and the soft lyrics of Arijit Singh ringing in my ears. I knew today was the right day to begin, because of the weather outside. It's especially average, but the air holds a slight chill that's indicative of the coming fall. The feeling of uncertain excitement I've associated with this moment (the change in season) has remained the same over the past 10 years. In middle school, it meant moving to a new house and starting anew. In high school, it meant a new year as a more important leader in the music program. Today, it means the beginning of my third year at UVA. And in this year, compared to others, my uncertainty and excitement are exponentially larger. I'm uncertain about my ability to balance time for work with time for relationships. Despite that, I'm so excited for what I know I can accomplish. (More on previously poor attempts at this balancing act in a different post)
+
+
+It seems during each experience in my 20 years of life, Hindi music has been a constant. The trend must have originated from experiences in my dad's car. Whenever I had somewhere to be - whether it was basketball tryouts, travel soccer tryouts, clarinet auditions, or my SAT's - it was my dad who would drop me off and pick me up. And for as long as I can remember, he'd refuse to play anything else.  My memories of those car rides aren't the most eventful, but they *are* meaningful, because I knew, regardless of my experience at the event I was at, I'd be able to open the door of my dad's car at its end and have that familiar Hindi music fill my ears once again. And in this way, so many of my emotions became subliminaly tied to that sweet music. Uncertainty, disappointment, stress, happiness, fear, anger - each one was felt with it playing in the background. I just never made that realization until recently.
+
+
+My first two years at UVA were characterized by plenty of personal growth, but that growth came from a place of challenge and disappointment. In moments of stress to perform better, I found listening to Hindi music would calm my nerves. All of my memories linked to the music would resurface in a whirlwhind of nostalgia. And through these memories, I'd subconsciously accept that while there were times where I fell short in the past, life always went on then and it will go on now. This is the power of my life's background music. It grounds me. Through it's melody, I'm reminded of every experience that has played a role in bringing me this far. It's funny to see how the music that held no semantic value for so long grew to represent something much more important. 

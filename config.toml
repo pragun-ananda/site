@@ -1,0 +1,47 @@
+baseURL = "http://pragun-ananda.github.io"
+languageCode = "en-us"
+title = "Pragun Ananda"
+theme = "cactus"
+[params]
+    colortheme = "white"    # dark, white, light, or classic
+    description = "Hello! This site is my personal portfolio, but it doubles as a place for me to let my thoughts roam freely. If you're interested, you can get in touch with me using the links below. And if possible, do check out some of my blog posts (more to come here). Thanks for stopping by!"
+    mainSection = "posts"
+
+# Main Menu 
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Blog"
+url = "/posts"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+# [[menu.main]]
+# name = "Contact Me"
+# url = "/contact"
+# weight = 5
+
+[[params.social]]
+name = "github"
+link = "https://github.com/pragun-ananda/"
+
+[[params.social]]
+name = "email"
+link = "pba4bd@virginia.edu"
+
+[[params.social]]
+name = "linkedin"
+link = "https://www.linkedin.com/in/pragun-ananda/"
+

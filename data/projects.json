@@ -1,0 +1,28 @@
+{
+    "list" : [
+        {
+            "name" : "Libra", 
+            "url" : "https://github.com/Palashio/libra",
+            "desc" : "A beginner-friendly open-source ML library in Python which allows you to build powerful models in one-liners."
+        },
+        {
+            "name" : "Aquedeuct",
+            "url" : "https://github.com/pragun-ananda/aqueduct",
+            "desc" : "A multithreaded TCP/IP server implemented in C"
+        },
+        {
+            "name" : "Food Frenzy",
+            "url" : "https://github.com/pragun-ananda/capital-one-ses",
+            "desc" : "A tool to help users decide where to eat based on geolocation and Yelp reviews of dining options"
+        },
+        {
+            "name" : "Graph-Based Approaches to Natural Language Processing",
+            "url" : "https://uvanlp.org",
+            "desc" : "Benchmarked the constraints of representing NLP datasets as graphs and contributed to an EMNLP accepted research paper"
+        },
+        {
+            "name" : "Unsupervised Textual Learning",
+            "desc" : "Gained investment insight about public sentiment by clustering >1 million articles of web-scraped financial news"
+        }
+    ]
+}
