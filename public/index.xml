@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pragun Ananda</title>
+    <link>http://pragun-ananda.github.io/</link>
+    <description>Recent content on Pragun Ananda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Aug 2020 14:01:19 -0400</lastBuildDate>
+    
+	<atom:link href="http://pragun-ananda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Background Music of My Life</title>
+      <link>http://pragun-ananda.github.io/posts/first/</link>
+      <pubDate>Sun, 16 Aug 2020 14:01:19 -0400</pubDate>
+      
+      <guid>http://pragun-ananda.github.io/posts/first/</guid>
+      <description>The background music my life is in Hindi. The funny thing about that fact is I don&amp;rsquo;t understand Hindi. Yet, I find myself here, writing my first blog post with headphones in and the soft lyrics of Arijit Singh ringing in my ears. I knew today was the right day to begin, because of the weather outside. It&amp;rsquo;s especially average, but the air holds a slight chill that&amp;rsquo;s indicative of the coming fall.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://pragun-ananda.github.io/about/</link>
+      <pubDate>Fri, 14 Aug 2020 11:21:50 -0400</pubDate>
+      
+      <guid>http://pragun-ananda.github.io/about/</guid>
+      <description>I&amp;rsquo;m a third-year undergraduate at the University of Virginia studying Computer Science and Mathematical Statistics. I enjoy building out scalable solutions to important computational problems. I&amp;rsquo;m actively looking for challenging and impactful internship opportunities for the spring, summer, and fall of 2021. In my free time, I enjoy spending time with my friends and family, becoming a better salsa + bachata dancer, and cooking to upbeat music.
+Some Notable Coursework  Algorithms and Data Structures (current TA) Advanced Software Development Software Testing Computer Networking Computer Architecture Machine Learning  Engineering Interests  Full-Stack Development Distributed Systems Systems Programming Large-scale Data Analysis ML and NLP  </description>
+    </item>
+    
+  </channel>
+</rss>

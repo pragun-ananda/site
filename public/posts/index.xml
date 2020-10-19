@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pragun Ananda</title>
+    <link>http://pragun-ananda.github.io/posts/</link>
+    <description>Recent content in Posts on Pragun Ananda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Aug 2020 14:01:19 -0400</lastBuildDate>
+    
+	<atom:link href="http://pragun-ananda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Background Music of My Life</title>
+      <link>http://pragun-ananda.github.io/posts/first/</link>
+      <pubDate>Sun, 16 Aug 2020 14:01:19 -0400</pubDate>
+      
+      <guid>http://pragun-ananda.github.io/posts/first/</guid>
+      <description>The background music my life is in Hindi. The funny thing about that fact is I don&amp;rsquo;t understand Hindi. Yet, I find myself here, writing my first blog post with headphones in and the soft lyrics of Arijit Singh ringing in my ears. I knew today was the right day to begin, because of the weather outside. It&amp;rsquo;s especially average, but the air holds a slight chill that&amp;rsquo;s indicative of the coming fall.</description>
+    </item>
+    
+  </channel>
+</rss>
